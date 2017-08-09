@@ -1,0 +1,7 @@
+/home/ramkumar/cukz_curr/dataset/640 X 480/image1.jpg
+/home/ramkumar/cukz_curr/dataset/640 X 480/image2.jpg
+/home/ramkumar/cukz_curr/dataset/640 X 480/image3.jpg
+/home/ramkumar/cukz_curr/dataset/640 X 480/image4.jpg
+/home/ramkumar/cukz_curr/dataset/640 X 480/image5.jpg
+/home/ramkumar/cukz_curr/dataset/640 X 480/image6.jpg
+
